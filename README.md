@@ -1,5 +1,3 @@
-Here's a sample README for your personal GitHub account based on the information you provided:
-
 Hi there! 👋 I'm mqthanggg
 I'm a third-year Computer Science student at Ho Chi Minh City University of Technology, pursuing a Bachelor's degree. I'm passionate about coding, problem-solving, and building impactful software. My goal is to become a Software Engineer or Full-Stack Developer, and I'm constantly learning and exploring new technologies to make that happen!
 
