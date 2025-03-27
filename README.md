@@ -21,11 +21,14 @@ I'm a third-year Computer Science student at Ho Chi Minh City University of Tech
 Studying Computer Science and honing my skills in software development.
 Working on personal projects to deepen my understanding of full-stack development.
 Exploring modern frameworks and tools to build efficient, scalable applications.
+
 🎯 **Future Goals**
 Master the art of software engineering and full-stack development.
 Contribute to open-source projects and collaborate with the developer community.
 Build innovative solutions that solve real-world problems.
+
 📫 **Let's Connect!**
+
 LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/th%C4%83ng-mai-qu%E1%BB%91c-7a8191358/)
 
 Email [![My Skills](https://skillicons.dev/icons?i=gmail)](maiquocthang0304@gmail.com)
