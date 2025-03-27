@@ -5,11 +5,17 @@ I'm a third-year Computer Science student at Ho Chi Minh City University of Tech
 
 🔧 Skills & Technologies
 Programming Languages
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,php)](https://skillicons.dev)
+
 Frameworks & Libraries
+
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,express,tailwind,bootstrap)](https://skillicons.dev)
+
 Tools
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
 🌱 What I'm Up To
 Studying Computer Science and honing my skills in software development.
 Working on personal projects to deepen my understanding of full-stack development.
