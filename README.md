@@ -29,8 +29,8 @@ Build innovative solutions that solve real-world problems.
 
 📫 **Let's Connect!**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev): (https://www.linkedin.com/in/th%C4%83ng-mai-qu%E1%BB%91c-7a8191358/)
+**LinkedIn**: https://www.linkedin.com/in/th%C4%83ng-mai-qu%E1%BB%91c-7a8191358/
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev): (maiquocthang0304@gmail.com)
+**Gmail**: maiquocthang0304@gmail.com
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
