@@ -16,11 +16,13 @@ I'm a third-year Computer Science student at Ho Chi Minh City University of Tech
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 🌱 **What I'm Up To**
+
 Studying Computer Science and honing my skills in software development.
 Working on personal projects to deepen my understanding of full-stack development.
 Exploring modern frameworks and tools to build efficient, scalable applications.
 
 🎯 **Future Goals**
+
 Master the art of software engineering and full-stack development.
 Contribute to open-source projects and collaborate with the developer community.
 Build innovative solutions that solve real-world problems.
